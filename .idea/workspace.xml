@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb1fc202-8ec1-440d-9aeb-c80d15132eeb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="jsproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -225,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1464531254202</updated>
-      <workItem from="1464531255783" duration="3646000" />
+      <workItem from="1464531255783" duration="3653000" />
     </task>
     <task id="LOCAL-00001" summary="quiz project start here">
       <created>1464534033140</created>
@@ -248,11 +247,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464535368650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added quiz form">
+      <created>1464535436460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1464535436460</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3646000" />
+    <option name="totallyTimeSpent" value="3653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
